@@ -1,0 +1,21 @@
+
+body{
+    margin: 0 0 0 0;
+    background:url(http://i.imgur.com/hqEzvRn.jpg);
+    background-size:cover;
+    }
+
+h2{
+  color: white;
+}
+
+.skype{  
+  color: rgb(0, 153, 255);
+}
+
+.gmail{
+  color: rgb(255, 80, 80);
+}
+.hangouts{
+  color: rgb(0, 153, 51);
+}

@@ -1,0 +1,32 @@
+{
+	"skills":[
+	{
+		"name":"HTML",
+		"cssclass":"fa fa-html5"
+	},
+	{
+		"name":"CSS",
+		"cssclass":"fa fa-html5"
+	},
+	{
+		"name":"RUBY",
+		"cssclass":"fa fa-html5"
+	},
+	{
+		"name":"JavaScript",
+		"cssclass":"fa fa-html5"
+	},
+	{
+		"name":"Jquery",
+		"cssclass":"fa fa-html5"
+	},
+	{
+		"name":"Vsual Basic",
+		"cssclass":"fa fa-html5"		
+	},
+	{
+		"name":"Auto-cade",
+		"cssclass":"fa fa-html5"
+	}
+	]
+}
